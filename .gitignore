@@ -1,0 +1,37 @@
+# Video files generated or used
+*.avi
+
+# YOLO model weights and run results
+*.pt
+runs/
+
+# Thư mục và tệp tạm thời của Python
+__pycache__/
+*.pyc
+*.pyd
+.Python
+.ipynb_checkpoints/
+
+# Thư mục môi trường ảo
+venv/
+env/
+.env
+
+# Các tệp hệ điều hành cụ thể
+.DS_Store
+Thumbs.db
+ehthumbs.db
+.Spotlight-V100
+.Trashes
+desktop.ini
+
+# Các tệp log
+*.log
+
+# Các tệp editor/IDE
+.vscode/
+.idea/
+*.swp
+
+# Thêm dòng này nếu bạn không muốn deep_sort_pytorch được theo dõi
+deep_sort_pytorch/
