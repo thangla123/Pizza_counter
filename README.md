@@ -96,6 +96,3 @@ python main.py   --video path/to/video.mp4   --weights runs/detect/yolov8_pizza_
 
 ---
 
-## 📬 Contact
-Developed by [Your Name]  
-For questions or feedback, reach out via [your.email@example.com]
